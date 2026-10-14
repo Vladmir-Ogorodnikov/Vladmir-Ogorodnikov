@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Vladmir-Ogorodnikov&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
   </a>
   <a href="https://github.com/Vladmir-Ogorodnikov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladmir-Ogorodnikov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladmir-Ogorodnikov&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" width="45%" />
   </a>
 </div>
 
